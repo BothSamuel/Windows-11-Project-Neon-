@@ -4,6 +4,7 @@
 The customization includes two mods that change the Start menu and the Task View button. This method is used because the Taskbar Styler mod no longer works to change taskbar icons in the latest Insider builds.
 
 - The Start button mod was created by Kymafrance; the original code is on DeviantArt. Only the size was modified to fit the new, smaller taskbar.
+   https://www.deviantart.com/kymafrance/art/Windows-11-Theme-White-Black-Start-Button-1362774952
 
 - The Task View mod is based on the mod created by Kymafrance and modified using Gemini.
 
