@@ -12,7 +12,7 @@ The customization includes two mods that change the Start menu and the Task View
   https://github.com/Lockframe/Styler-Themes
 
   1. Task View on the right
-     https://github.com/Lockframe/Styler-Themes/blob/main/pre-made-mods/taskview-on-the-right.wh.cpp
+     https://github.com/BothSamuel/Windows-11-Project-Neon-/blob/main/Task%20View%20on%20the%20right.cpp
      <img width="870" height="222" alt="image" src="https://github.com/user-attachments/assets/7f3c0e51-0355-48a2-b87e-00f0efb14100" />
 
   2. Windows 10X for Windows 11 notification center styler
