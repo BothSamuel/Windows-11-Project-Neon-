@@ -2,7 +2,7 @@
 // @id              unified-taskbar-icons-adaptive
 // @name            Unified Adaptive Taskbar Icons (Start & Task View)
 // @version         1.1.0
-// @author          BothSamuel 
+// @author          Custom & KYMA
 // @description     Personalización unificada para el botón de Inicio y Vista de Tareas en Windows 11 con soporte para modo claro/oscuro.
 // @include         explorer.exe
 // @architecture    x86-64
@@ -10,7 +10,22 @@
 // ==/WindhawkMod==
 
 // ==WindhawkModSettings==
-/*...*/
+/*
+- theme_mode: auto
+  $name: Modo de tema
+  $options:
+    - auto: Automático (Seguir tema del sistema)
+    - light: Modo Claro (Iconos negros)
+    - dark: Modo Oscuro (Iconos blancos)
+- enable_start_logo: true
+  $name: Habilitar logo de Inicio personalizado
+- start_logo_size: 13.0
+  $name: Tamaño del logo de Inicio (px)
+- enable_task_view: true
+  $name: Habilitar icono de Vista de Tareas personalizado
+- task_view_size: 20.0
+  $name: Tamaño del icono de Vista de Tareas (px)
+*/
 // ==/WindhawkModSettings==
 
 #include <windhawk_utils.h>
